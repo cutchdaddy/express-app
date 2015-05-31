@@ -1,0 +1,35 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#time-remain {
+	color: #E4761A
+}
+
+#amt-bar {
+	width: 250px;
+}
+
+#amt {
+	color: #FFFFFF;
+	padding: 10px;
+	margin-bottom: 5px;
+	background-color: #867777;
+	text-align: center;
+	border-radius: 10px;
+}
+
+.progress-bar {
+	background-color: #E4761A;
+}
+
+.input-group-btn {
+	color: #000000;
+}
+
+
